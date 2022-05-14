@@ -2,7 +2,9 @@
 
 Version: 2022-May-14
 
-Clarification: EchoRoom Online Session Guideline only apply to online sessions due to campus lockdown.
+Clarification: 
+* EchoRoom Online Session Guideline only apply to online sessions due to campus lockdown;
+* The Guideline was passed by the EchoRoom Mteam with a five-to-two majority vote on May 2nd.
 
 ## Rules
 
