@@ -26,7 +26,7 @@ Clarification: EchoRoom Online Session Guideline only apply to online sessions d
     * 若线上运行期间，未有Guest成员补位，则原线下Session成员（Member A）有优先参加线下Session的资格；
     * 若线上运行期间，有Guest成员补位成为线上Session成员（Member B）：
       * 若线上Session成员（Member B）选择不参加线下Session，则原线下Session成员（Member A）有优先参加线下Session的资格；
-      * 若线上Session成员（Member B）选择继续参加线下Session，则原线下Session成员（Member A）转为该Session的Waitinglist，并排名第一位；
+      * 若线上Session成员（Member B）选择继续参加线下Session，则原线下Session成员（Member A）转至该Session的Waitinglist，并排名第一位；
 
 ## 线上Session参与要求
 
