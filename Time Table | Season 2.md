@@ -1,8 +1,8 @@
 # Time table for the EchoRoom Season 2
 
-Here is the host list for Season 2. The location is always @ *the Pao yue-kong Library, SJTU*.
+Here is the host table for Season 2. The location is always @ *the Pao yue-kong Library, SJTU*. During the campus lockdown, we are having all the sessions online.
 
-## Session 1 | Wed :clock630: 18:30-19:30 :clock730:
+## Session Kiwe | Wed :clock630: 18:30-19:30 :clock730:
 
 | Date     | Duration    | Room    | Host     | Topic              | Apply ID | Password |
 |----------|-------------|---------|----------|--------------------|----------|----------|
@@ -22,7 +22,7 @@ Here is the host list for Season 2. The location is always @ *the Pao yue-kong L
 | Jun   8  | 18:30-20:00 | online  | Shan     | TBD                | -        | -        |
 
 
-This is a renewed session, and the S1 Round 1 starts on Feb 23rd. Shizhao is the Manager of Session 1.
+This is a renewed session, and the Session Kiwe Round 1 returns on Feb 23rd. Shizhao is the Manager of Session Kiwe.
 
 Host order:
 * Shizhao
@@ -34,7 +34,7 @@ Host order:
 * Fukang
 * Shan
 
-## Session 2 | Wed :clock9: 21:00-22:00 :clock10:
+## Session Ω | Wed :clock9: 21:00-22:00 :clock10:
 
 | Date    | Duration    | Room   | Host      | Topic                   | Apply ID | Password |
 |---------|-------------|--------|-----------|-------------------------|----------|----------|
@@ -57,7 +57,7 @@ Host order:
 | Jun 22  | 20:30-22:00 | online | Bingxue   | TBD                     |  -       |  -       |
 | Jun 29  | 20:30-22:00 | online | Silin     | TBD                     |  -       |  -       |
 
-This is a new session. We have 2 pre-sessions before the S2 Round 1 starts on Mar 9th. Jiaxi is the Manager of Sesssion 2.
+This is a new session. We have 2 pre-sessions before the The Session Ω Round 1. Jiaxi & Bingxue are the Manager & Co-manager of Session Ω.
 
 Pre-sessions:
 * Feb 23rd hosted by Chenxi S
@@ -70,10 +70,10 @@ Host order (Starting Mar 16th):
 * Jiaxi
 * Yan
 * Denghu
-* Chenxi S
+* TBD
 * Bingxue
 
-## Session 3 | Thu :clock9: 21:00-22:00 :clock10:
+## Session The8 | Thu :clock9: 21:00-22:00 :clock10:
  
 | Date   | Duration    | Room   | Host      | Topic                        | Apply ID | Password |
 |--------|-------------|--------|-----------|------------------------------|----------|----------|
@@ -90,23 +90,20 @@ Host order (Starting Mar 16th):
 | May 12 | 20:30-22:00 | online | Tianxiang | Script killing               | -        |   -      |
 | May 19 | 20:30-22:00 | online | Yinghui   | TBD                          | -        |   -      |
 | May 26 | 20:30-22:00 | online | Chenxi D  | TBD                          | -        |   -      |
-| Jun 02 | 20:30-22:00 | online | Chenxi S  | TBD                          | -        |   -      |
+| Jun 02 | 20:30-22:00 | online | TBD       | TBD                          | -        |   -      |
 | Jun 09 | 20:30-22:00 | online | Yuan      | TBD                          | -        |   -      |
 
 
-Session 3 is a renewed session, and the S3 Round 1 starts on Feb 24th. Yuan is the EchoRoom Manager of Session 4.
+Session The8 is a renewed session, and the Round 1 returns on Feb 24th. Yuan & Tianxiang are the the Manager & Co-manager of Session The8.
 
 Host order:
-* TBD
-* Lening
-* Chenxi D
 * Yuan
-* Shan
+* Yingqi
 * Tianxiang
 * Yinghui
-* Jizhou
+* Chenxi D
 
-## Session 4 | Thu :clock9: 21:00-22:00 :clock10:
+## Session Pisces | Thu :clock9: 21:00-22:00 :clock10:
 
 | Date     | Duration    | Room | Host     | Topic                                   | Apply ID | Password |
 |----------|-------------|------|----------|-----------------------------------------|----------|----------|
@@ -122,7 +119,7 @@ Host order:
 | May   05 | 20:30-22:00 | @412 | Shuang   | TBD                                     |   235577 |   444444 |
 | May   12 | 20:30-22:00 | @412 | Xinwei   | TBD                                     |   235578 |   888888 |
 
-Session 4 is a new session. We have 3 pre-sessions before the S4 Round 1 starts on Mar 17th. Qinjing & Shuang co-manages the session.
+Session Pisces is a new session. We have 3 pre-sessions before the Session Pisces Round 1. Qinjing & Shuang co-manages the session.
 
 Pre-sessions:
 * Feb 24th hosted by Chenxi S
