@@ -36,26 +36,26 @@ Host order:
 
 ## Session 2 | Wed :clock9: 21:00-22:00 :clock10:
 
-| Date    | Duration    | Room   | Host      | Topic              | Apply ID | Password |
-|---------|-------------|--------|-----------|--------------------|----------|----------|
-| Feb 23  | 21:00-22:00 | @410   | Chenxi    | Icebreaker         |  235552  |  665165  |
-| Mar 02  | 20:30-22:00 | @412   | Shizhao   | Time Travel        |  235556  |  553654  |
-| Mar 16  | 20:30-22:00 | online | Dongsheng | Life Check         |  -       |  -       |
-| Mar 23  | 20:30-22:00 | online | Silin     | Travel             |  -       |  -       |
-| Mar 30  | 20:30-22:00 | online | Haixing   | Idol               |  -       |  -       |
-| Apr 06  | 20:30-22:00 | online | Jiaxi     | Moon & Sixpence    |  -       |  -       |
-| Apr 13  | 20:30-22:00 | online | Yan       | Movies & TV Series |  -       |  -       |
-| Apr 20  | 20:30-22:00 | online | Denghu    | Game: Undercover   |  -       |  -       |
-| Apr 27  | 20:30-22:00 | online | Bingxue   | Game: Werewords    |  -       |  -       |
-| May 04  | 20:30-22:00 | online | Chenxi S  | REACT: Videos      |  -       |  -       |
-| May 11  | 20:30-22:00 | online | Dongsheng | TBD                |  -       |  -       |
-| May 18  | 20:30-22:00 | online | Silin     | TBD                |  -       |  -       |
-| May 25  | 20:30-22:00 | online | Haixing   | TBD                |  -       |  -       |
-| Jun 01  | 20:30-22:00 | online | Jiaxi     | TBD                |  -       |  -       |
-| Jun 08  | 20:30-22:00 | online | Yan       | TBD                |  -       |  -       |
-| Jun 15  | 20:30-22:00 | online | Denghu    | TBD                |  -       |  -       |
-| Jun 22  | 20:30-22:00 | online | Bingxue   | TBD                |  -       |  -       |
-| Jun 29  | 20:30-22:00 | online | Chenxi S  | TBD                |  -       |  -       |
+| Date    | Duration    | Room   | Host      | Topic                   | Apply ID | Password |
+|---------|-------------|--------|-----------|-------------------------|----------|----------|
+| Feb 23  | 21:00-22:00 | @410   | Chenxi    | Icebreaker              |  235552  |  665165  |
+| Mar 02  | 20:30-22:00 | @412   | Shizhao   | Time Travel             |  235556  |  553654  |
+| Mar 16  | 20:30-22:00 | online | Dongsheng | Life Check              |  -       |  -       |
+| Mar 23  | 20:30-22:00 | online | Silin     | Travel                  |  -       |  -       |
+| Mar 30  | 20:30-22:00 | online | Haixing   | Idol                    |  -       |  -       |
+| Apr 06  | 20:30-22:00 | online | Jiaxi     | Moon & Sixpence         |  -       |  -       |
+| Apr 13  | 20:30-22:00 | online | Yan       | Movies & TV Series      |  -       |  -       |
+| Apr 20  | 20:30-22:00 | online | Denghu    | Game: Undercover        |  -       |  -       |
+| Apr 27  | 20:30-22:00 | online | Bingxue   | Game: Werewords         |  -       |  -       |
+| May 04  | 20:30-22:00 | online | Chenxi S  | REACT: Gender Equality  |  -       |  -       |
+| May 11  | 20:30-22:00 | online | Dongsheng | REACT: Mother, Bullying |  -       |  -       |
+| May 18  | 20:30-22:00 | online | Yan       | REACT: VTuber & Vup     |  -       |  -       |
+| May 25  | 20:30-22:00 | online | Haixing   | TBD                     |  -       |  -       |
+| Jun 01  | 20:30-22:00 | online | Jiaxi     | TBD                     |  -       |  -       |
+| Jun 08  | 20:30-22:00 | online | Chenxi S  | TBD                     |  -       |  -       |
+| Jun 15  | 20:30-22:00 | online | Denghu    | TBD                     |  -       |  -       |
+| Jun 22  | 20:30-22:00 | online | Bingxue   | TBD                     |  -       |  -       |
+| Jun 29  | 20:30-22:00 | online | Silin     | TBD                     |  -       |  -       |
 
 This is a new session. We have 2 pre-sessions before the S2 Round 1 starts on Mar 9th. Jiaxi is the Manager of Sesssion 2.
 
