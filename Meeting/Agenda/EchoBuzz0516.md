@@ -22,6 +22,7 @@ Weekly or bi-weekly update w/ 40min max time span;
   - Session Design Update;
   - [Session Quality Control](https://github.com/ChenxiSSS/theEchoRoom/issues/51)
   - [Online Session Update](https://github.com/ChenxiSSS/theEchoRoom/issues/42) >> [Online Session Guideline](https://github.com/ChenxiSSS/theEchoRoom/blob/QQ/Roles/Online%20Session%20Guideline.md)
+  - [Online Guest Invitation](https://github.com/ChenxiSSS/theEchoRoom/issues/53)
 
 - Split the tasks (text-only)
   - Agenda for EchoBuzz0509: Chenxi
