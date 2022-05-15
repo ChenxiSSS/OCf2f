@@ -7,8 +7,8 @@ Weekly or bi-weekly update w/ 40min max time span;
 ## Schedule
 - Start recording & writing minutes
 - Check-in w/ everyone (5min)
-- Manager report on the latest Expression Sessions (informal, general oral expression, formal report if deemed necessary)
-- Update on the possible new manager candidate?
+  - Manager report on the latest Expression Sessions (informal, general oral expression, formal report if deemed necessary)
+  - Update on the possible new manager candidate?
 
 - Quick items (Max 10min)
   - Weekly preview;
