@@ -12,6 +12,8 @@ Weekly or bi-weekly update w/ 40min max time span;
 
 - Quick items (Max 10min)
   - Weekly preview;
+  - Rotation table for future tasks;
+    - Rotation order: Shizhao > Jiaxi > Bingxue > Eric > Shuang
   - Manager Workflow:
     - Any more thoughts & the inconsistency?
     - The intension of the DDL.
@@ -25,6 +27,6 @@ Weekly or bi-weekly update w/ 40min max time span;
   - [Online Guest Invitation](https://github.com/ChenxiSSS/theEchoRoom/issues/53)
 
 - Split the tasks (text-only)
-  - Agenda for EchoBuzz0509: Chenxi
-  - Minutes for EchoBuzz0509: Eric
-  - [Online Session Update](https://github.com/ChenxiSSS/theEchoRoom/issues/42)
+  - Agenda for EchoBuzz0516: Chenxi
+  - Minutes for EchoBuzz0516: Shuang
+  - [Online Guest Invitation](https://github.com/ChenxiSSS/theEchoRoom/issues/53)
