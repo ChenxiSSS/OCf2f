@@ -25,5 +25,13 @@ Naming after pasta, grapes, coffee types, galaxies, or cakes? A bit like what An
 ### Policy Changes
 
 - Addition of the reviewed Community Guideline Version 1.0
+- Addition of the Online Session Guideline Version 1.0
+- Addition of Member Switch Policy Version 1.0
 - Addition of Mteam Buzz Session
 - Addition of EchoRoom Showtime weekly topic preview
+
+### Quality Controls
+- Session Topic Template (Host)
+- Session Brief Template (Manager)
+- Session Rotation Measure (Manager)
+- Session Invititation Measure (Manager)
