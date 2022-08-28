@@ -109,15 +109,19 @@ Host order:
 |----------|-------------|------|----------|-----------------------------------------|----------|----------|
 | Feb   24 | 21:00-22:00 | @310 | Chenxi   | Icebreaker                              |   235553 |   321321 |
 | Mar   03 | 20:30-22:00 | @311 | Yuan     | Movies                                  |   235567 |   333333 |
-| Mar   17 | 20:30-22:00 | @311 | Shuang   | COVID Impact                            |   235568 |   333333 |
-| Mar   24 | 20:30-22:00 | @412 | Jiayuan  | Digital Life                            |   235571 |   777777 |
-| Mar   31 | 20:30-22:00 | @412 | Qinjing  | Flat Earther vs Ball Earther            |   235572 |   444444 |
-| Apr   07 | 20:30-22:00 | @412 | Xinyi    | Health and Well-being                   |   235573 |   444444 |
-| Apr   14 | 20:30-22:00 | @412 | Xianghao | The Impact of Social Media              |   235574 |   666666 |
-| Apr   21 | 20:30-22:00 | @412 | Xiangkun | The Knowledge and Experience About Drug |   235575 |   222222 |
-| Apr   28 | 20:30-22:00 | @412 | Wenwen   | Book Reading                            |   235576 |   000000 |
-| May   05 | 20:30-22:00 | @412 | Shuang   | TBD                                     |   235577 |   444444 |
-| May   12 | 20:30-22:00 | @412 | Xinwei   | TBD                                     |   235578 |   888888 |
+| Mar   17 | 20:30-22:00 | Online | Shuang   | COVID Impact                            | -        | -        |
+| Mar   24 | 20:30-22:00 | Online | Jiayuan  | Digital Life                            | -        | -        |
+| Mar   31 | 20:30-22:00 | Online | Qinjing  | Flat Earther vs Ball Earther            | -        | -        |
+| Apr   07 | 20:30-22:00 | Online | Xinyi    | Health and Well-being                   | -        | -        |
+| Apr   14 | 20:30-22:00 | Online | Xianghao | The Impact of Social Media              | -        | -        |
+| Apr   21 | 20:30-22:00 | Online | Xiangkun | The Knowledge and Experience About Drug | -        | -        |
+| Apr   28 | 20:30-22:00 | Online | Wenwen   | Book Reading                            | -        | -        |
+| May   05 | 20:30-22:00 | Online | Shuang   | Online or offline communication         | -        | -        |
+| May   12 | 20:30-22:00 | Online | Xinwei   | Fun:dubing                             | -        | -        |
+| May   19 | 20:30-22:00 | Online | Jiayuan   | Career Planning                        | -        | -        |
+| Aug   14  | 20:00-21:30 | Online | Qinjing   | Descriptive Video Service   | -        | -        |
+| Aug   21  | 20:00-21:00 | Online | Xinyi   | Traveling | -        | -        |
+| Aug   28  | 20:00-21:00 | Online | Shuang   | Special Training Plans for Different Majors  | -        | -        |
 
 Session Pisces is a new session. We have 3 pre-sessions before the Session Pisces Round 1. Qinjing & Shuang co-manages the session.
 
