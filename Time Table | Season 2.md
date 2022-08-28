@@ -119,10 +119,9 @@ Host order:
 | May   05 | 20:30-22:00 | Online | Shuang   | Online or offline communication         | -        | -        |
 | May   12 | 20:30-22:00 | Online | Xinwei   | Fun：dubing                             | -        | -        |
 | May   19 | 20:30-22:00 | Online | Jiayuan   | Career Planning                        | -        | -        |
-
-| Aug   14  | 20:00-21:30 | Online | Qinjing   | Descriptive Video Service   |   235578 |   888888 |
-| Aug   21  | 20:00-21:00 | Online | Xinyi   | Travel   |   235578 |   888888 |
-| Aug   28  | 20:00-21:00 | Online | Shuang   | Special Training Plans for Different Majors  |   235578 |   888888 |
+| Aug   14  | 20:00-21:30 | Online | Qinjing   | Descriptive Video Service   | -        | -        |
+| Aug   21  | 20:00-21:00 | Online | Xinyi   | -        | -        |
+| Aug   28  | 20:00-21:00 | Online | Shuang   | Special Training Plans for Different Majors  | -        | -        |
 
 Session Pisces is a new session. We have 3 pre-sessions before the Session Pisces Round 1. Qinjing & Shuang co-manages the session.
 
