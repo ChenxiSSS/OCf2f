@@ -1,7 +1,7 @@
 # New Session Rules
 
 * 基本原则：
-  * 按照报名顺序邀请Waitinglist成员作为Regular Member每周参加Session；
+  * 按照报名顺序邀请Waitinglist成员（新报名默认为Waitinglist）作为Regular Member每周参加Session；
   * Session优先保证男女比例1比1：后续也会男生空缺优先邀请男生，女生空缺优先邀请女生；
 * 优先原则：
   * 获得优先邀请权的Member可以在最高顺位被邀请；
