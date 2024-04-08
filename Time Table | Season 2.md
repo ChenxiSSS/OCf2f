@@ -24,10 +24,10 @@ Here is the host table for Season 2. The location is always @ *the Pao yue-kong 
 | Jun   15 | 18:30-20:00 | online  | Chang    | Travel Preference  | -        | -        |
 | Jun   21 | 18:30-20:00 | online  | Jianing  | Movie/Music Sharing| -        | -        |
 | Jun   28 | 18:30-20:00 | online  | Shan     | Roadside Stalls    | -        | -        |
-| Jul   6  | 18:30-20:00 | online  | Siqi     | TBD                | -        | -        |
-| Jul   27 | 18:30-20:00 | online  | Tingting | Anxiety Relieve    | -        | -        |
-| Jul   27 | 18:30-20:00 | online  | Wenjun   | Summer Time        | -        | -        |
-
+| Jul   13 | 18:30-20:00 | online  | Siqi     | TBD                | -        | -        |
+| Jul   18 | 18:30-20:00 | online  | Tingting | Anxiety Relieve    | -        | -        |
+| Aug   3  | 18:30-20:00 | online  | Wenjun   | Summer Time        | -        | -        |
+| Aug   10 | 18:30-20:00 | online  | Shizhao  | Video Sharing      | -        | -        |
 
 This is a renewed session, and the Session Kiwe Round 1 returns on Feb 23rd. Shizhao is the Manager of Session Kiwe.
 
